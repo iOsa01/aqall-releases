@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
+  "versionCode": 10001,
+  "versionName": "1.0.1",
   "url": "https://github.com/iOsa01/aqall-releases/releases/latest/download/aqall-latest.apk",
-  "notes": "أول إصدار عام",
-  "sha256": "bd1fc78fc6a0348e81cafa35899fe265a3a5804f56301458e0f8853d8c525610"
+  "notes": "تصنيف شاشة الإعدادات + إيقاف الحصّالة افتراضيًا + قسم «حول التطبيق» + فاحص التحديث عن بُعد + باركود المشاركة",
+  "sha256": "564f6d1adece81369d3efea98ebc6cb593b7862d466d2963e0e470c23164e024"
 }
