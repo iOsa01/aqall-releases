@@ -1,7 +1,7 @@
 {
-  "versionCode": 10002,
-  "versionName": "1.0.2",
+  "versionCode": 10003,
+  "versionName": "1.0.3",
   "url": "https://github.com/iOsa01/aqall-releases/releases/latest/download/aqall-latest.apk",
-  "notes": "اختبار آلية التحديث عن بُعد (رفع رقم الإصدار فوق 1.0.1)",
-  "sha256": "b7441e96046b85747c53ea25becc893d5a929f2d774e71f73da432876dd10e11"
+  "notes": "رسالة التحديث تظهر عند كل فتح للتطبيق + تمييز فشل الفحص عن «محدّث»",
+  "sha256": "d08eb73e94752374c0fe4d4478bb87e9646405edb142be343a4e78a5c7b9b819"
 }
