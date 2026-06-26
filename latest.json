@@ -1,7 +1,7 @@
 {
-  "versionCode": 10200,
-  "versionName": "1.2.0",
+  "versionCode": 10201,
+  "versionName": "1.2.1",
   "url": "https://github.com/iOsa01/aqall-releases/releases/latest/download/aqall-latest.apk",
-  "notes": "المرحلة ٣: رحلة جسدك (معالم تعافٍ بدل الأرقام + أطول فترة حرّية) · شاشة انتكاس رحيمة عند تجاوز الهدف (رحمة لا لوم)",
-  "sha256": "41d014561edee2bf181e2c588d252cc647e01583cd25113b982eb23bf5d5cf52"
+  "notes": "أيقونة مخصّصة جديدة: سيجارة يتكثّف دخانها في ورقة (تكيّفية + كل الكثافات)",
+  "sha256": "ffe61d131f57c6b8bad1728947c95ab2902ce2eef6ef2b341b6477bf4b08d8d9"
 }
