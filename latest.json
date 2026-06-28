@@ -1,7 +1,7 @@
 {
-  "versionCode": 10201,
-  "versionName": "1.2.1",
+  "versionCode": 10300,
+  "versionName": "1.3.0",
   "url": "https://github.com/iOsa01/aqall-releases/releases/latest/download/aqall-latest.apk",
-  "notes": "أيقونة مخصّصة جديدة: سيجارة يتكثّف دخانها في ورقة (تكيّفية + كل الكثافات)",
-  "sha256": "ffe61d131f57c6b8bad1728947c95ab2902ce2eef6ef2b341b6477bf4b08d8d9"
+  "notes": "نظام الإرساء الذكي للأتمتة (عدّ تنازلي + دمج أوقات الذروة الشخصية) · زرّ «أجّلها بدل أن تشعلها» مع منتقي مدّة مخصّص ومكافأة وتذكير · إصلاح منتقي الوقت (تثبيت موثوق + ترتيب الأعمدة) · أيقونة تطبيق جديدة (رئتان).",
+  "sha256": "5cd56264bd65be40b9c5d625fce6d405f6a2037fd4cfefe75da39f2aa496797e"
 }
