@@ -1,7 +1,7 @@
 {
-  "versionCode": 10303,
-  "versionName": "1.3.3",
+  "versionCode": 10304,
+  "versionName": "1.3.4",
   "url": "https://github.com/iOsa01/aqall-releases/releases/latest/download/aqall-latest.apk",
-  "notes": "أيقونة تطبيق جديدة (شعار aqall على خلفية بيضاء) + نقل رسالة حالة دورة التباعد من فتح التطبيق إلى زرّ «بدأت سيجارة» لتقليل التشتيت.",
-  "sha256": "743390e277084bb6e99f880e9c7ccc57b0a788c0957eae7a5d92a806782886d8"
+  "notes": "إضافة طبقة monochrome للأيقونة (دعم الأيقونات المنسّقة بلون السمة في أندرويد 13+).",
+  "sha256": "9a3dc08dfc001d2e757c5223b773e65b3d27436063061b2c16d24d6f6082cb78"
 }
