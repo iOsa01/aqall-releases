@@ -1,7 +1,7 @@
 {
-  "versionCode": 10301,
-  "versionName": "1.3.1",
+  "versionCode": 10302,
+  "versionName": "1.3.2",
   "url": "https://github.com/iOsa01/aqall-releases/releases/latest/download/aqall-latest.apk",
-  "notes": "تحويل الإشعار الدائم إلى دورات التباعد مع زر أوضح: عد لي سيجارة سأدخن.",
-  "sha256": "887f0e901a42778798be9d1313dac9cbe0758773ada642dc3b448084fa643ead"
+  "notes": "تنظيف الشاشة الرئيسية وشاشات الرغبة، إلغاء الإشعار الدائم، وتنبيهات عند اكتمال دورات التباعد فقط.",
+  "sha256": "6aa2c336e232f95f4980d6360c05dc3789b052a8eaae9a6174d698168a332369"
 }
